@@ -1,0 +1,6 @@
+{
+  "name": "SEO Content Gap & Competitor Analysis Engine",
+  "description": "Production-grade SEO content gap and competitor analysis engine. Evaluates top 7 competitor URLs, parses semantic density, provides linear bar comparisons, calculates predictive ranking upgrade probabilities, and generates downloadable content briefs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
